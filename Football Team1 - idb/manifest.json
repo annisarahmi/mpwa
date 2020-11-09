@@ -1,0 +1,23 @@
+{
+  "name": "Football Team",
+  "short_name": "Team FB",
+  "description": "IFree Aplikasi to get information team football",
+  "start_url": "/index.html",
+  "display": "minimal-ui",
+  "background_color": "#bf360c",
+  "theme_color": "#bf360c",
+  "icons": [
+    {
+      "src": "maskable_icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "maskable_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
